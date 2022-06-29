@@ -15,6 +15,7 @@
 		2D41FAA4286CE357008BB3DC /* ShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FAA3286CE357008BB3DC /* ShapesView.swift */; };
 		2D41FAA6286CE6F1008BB3DC /* ColorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FAA5286CE6F1008BB3DC /* ColorsView.swift */; };
 		2D6EE2AF286CEE1500081394 /* GradientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2AE286CEE1500081394 /* GradientsView.swift */; };
+		2D6EE2B1286CF5A300081394 /* IconsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2B0286CF5A300081394 /* IconsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		2D41FAA3286CE357008BB3DC /* ShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesView.swift; sourceTree = "<group>"; };
 		2D41FAA5286CE6F1008BB3DC /* ColorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsView.swift; sourceTree = "<group>"; };
 		2D6EE2AE286CEE1500081394 /* GradientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsView.swift; sourceTree = "<group>"; };
+		2D6EE2B0286CF5A300081394 /* IconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				2D41FAA3286CE357008BB3DC /* ShapesView.swift */,
 				2D41FAA5286CE6F1008BB3DC /* ColorsView.swift */,
 				2D6EE2AE286CEE1500081394 /* GradientsView.swift */,
+				2D6EE2B0286CF5A300081394 /* IconsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				2D41FAA6286CE6F1008BB3DC /* ColorsView.swift in Sources */,
 				2D41FAA1286C842F008BB3DC /* TextView.swift in Sources */,
 				2D6EE2AF286CEE1500081394 /* GradientsView.swift in Sources */,
+				2D6EE2B1286CF5A300081394 /* IconsView.swift in Sources */,
 				2D41FAA4286CE357008BB3DC /* ShapesView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
