@@ -17,6 +17,7 @@
 		2D6EE2AF286CEE1500081394 /* GradientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2AE286CEE1500081394 /* GradientsView.swift */; };
 		2D6EE2B1286CF5A300081394 /* IconsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2B0286CF5A300081394 /* IconsView.swift */; };
 		2D6EE2B3286CFBBC00081394 /* ImagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2B2286CFBBC00081394 /* ImagesView.swift */; };
+		2D6EE2B5286CFF8B00081394 /* FrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2B4286CFF8B00081394 /* FrameView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		2D6EE2AE286CEE1500081394 /* GradientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsView.swift; sourceTree = "<group>"; };
 		2D6EE2B0286CF5A300081394 /* IconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsView.swift; sourceTree = "<group>"; };
 		2D6EE2B2286CFBBC00081394 /* ImagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesView.swift; sourceTree = "<group>"; };
+		2D6EE2B4286CFF8B00081394 /* FrameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				2D6EE2AE286CEE1500081394 /* GradientsView.swift */,
 				2D6EE2B0286CF5A300081394 /* IconsView.swift */,
 				2D6EE2B2286CFBBC00081394 /* ImagesView.swift */,
+				2D6EE2B4286CFF8B00081394 /* FrameView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				2D41FA95286C7968008BB3DC /* ContentView.swift in Sources */,
 				2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */,
 				2D41FAA6286CE6F1008BB3DC /* ColorsView.swift in Sources */,
+				2D6EE2B5286CFF8B00081394 /* FrameView.swift in Sources */,
 				2D41FAA1286C842F008BB3DC /* TextView.swift in Sources */,
 				2D6EE2B3286CFBBC00081394 /* ImagesView.swift in Sources */,
 				2D6EE2AF286CEE1500081394 /* GradientsView.swift in Sources */,
