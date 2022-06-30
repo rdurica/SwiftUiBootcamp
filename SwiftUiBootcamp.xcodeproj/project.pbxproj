@@ -26,6 +26,7 @@
 		2DF6BE48286DC23900AD8CFF /* Loops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE47286DC23900AD8CFF /* Loops.swift */; };
 		2DF6BE4C286DC8F900AD8CFF /* ScrollViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE4B286DC8F900AD8CFF /* ScrollViewView.swift */; };
 		2DF7421C286E41BE00D9E148 /* ButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF7421B286E41BE00D9E148 /* ButtonsView.swift */; };
+		2DF7421E286E4A0B00D9E148 /* StateDecoratorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF7421D286E4A0B00D9E148 /* StateDecoratorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		2DF6BE47286DC23900AD8CFF /* Loops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loops.swift; sourceTree = "<group>"; };
 		2DF6BE4B286DC8F900AD8CFF /* ScrollViewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewView.swift; sourceTree = "<group>"; };
 		2DF7421B286E41BE00D9E148 /* ButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsView.swift; sourceTree = "<group>"; };
+		2DF7421D286E4A0B00D9E148 /* StateDecoratorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDecoratorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				2DF7421B286E41BE00D9E148 /* ButtonsView.swift */,
 				2DF6BE45286DB4F500AD8CFF /* Initializators.swift */,
 				2DF6BE47286DC23900AD8CFF /* Loops.swift */,
+				2DF7421D286E4A0B00D9E148 /* StateDecoratorView.swift */,
 			);
 			path = Func;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 			files = (
 				2D41FA95286C7968008BB3DC /* ContentView.swift in Sources */,
 				2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */,
+				2DF7421E286E4A0B00D9E148 /* StateDecoratorView.swift in Sources */,
 				2D41FAA6286CE6F1008BB3DC /* ColorsView.swift in Sources */,
 				2D6EE2B5286CFF8B00081394 /* FrameView.swift in Sources */,
 				2DF6BE42286D7B3300AD8CFF /* PaddingAndSpacingView.swift in Sources */,
