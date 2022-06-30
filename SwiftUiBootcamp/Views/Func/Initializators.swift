@@ -11,25 +11,25 @@ struct Initializators: View {
     let backgroundColor: Color
     let count: Int
     let fruit: Fruit
-    
-    init(fruit: Fruit, count: Int){
+
+    init(fruit: Fruit, count: Int) {
         self.fruit = fruit
         self.count = count
-        
-        if (fruit == .apple){
-            self.backgroundColor = .green
+
+        if fruit == .apple {
+            backgroundColor = .green
         } else {
-            self.backgroundColor = .orange
+            backgroundColor = .orange
         }
     }
-    
+
     enum Fruit: String {
         case apple = "Apples"
         case orange = "Oarnges"
     }
-    
+
     var body: some View {
-        VStack{
+        VStack {
             Text("\(count)")
                 .font(.largeTitle)
                 .foregroundColor(.white)
@@ -44,7 +44,6 @@ struct Initializators: View {
         .cornerRadius(10)
         .shadow(color: backgroundColor.opacity(0.7), radius: 10, x: 5, y: 5)
     }
- 
 }
 
 struct Initializators_Previews: PreviewProvider {

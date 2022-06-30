@@ -13,7 +13,7 @@ struct GradientsView: View {
             .fill(
 //                Color("CustomColor")
                 LinearGradient(
-                    colors:[Color("CustomColor"), Color.blue],
+                    colors: [Color("CustomColor"), Color.blue],
                     startPoint: .bottom,
                     endPoint: .topLeading
                 )

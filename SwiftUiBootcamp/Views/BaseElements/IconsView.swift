@@ -20,7 +20,6 @@ struct IconsView: View {
             .shadow(color: Color.red.opacity(0.4), radius: 10, x: 10, y: 10)
             .frame(width: 300, height: 300)
 //            .clipped()
-        
     }
 }
 

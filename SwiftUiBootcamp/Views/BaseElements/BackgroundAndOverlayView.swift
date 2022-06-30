@@ -16,9 +16,10 @@ struct BackgroundAndOverlayView: View {
             .background(
                 Circle()
                     .fill(
-                        LinearGradient(colors: [Color("CustomColor"), Color("CustomColor").opacity(0.9)], startPoint: .bottomTrailing,
-                            endPoint: .topLeading
-                          )
+                        LinearGradient(colors: [Color("CustomColor"), Color("CustomColor").opacity(0.9)],
+                                       startPoint: .bottomTrailing,
+                                       endPoint: .topLeading
+                        )
                     )
                     .frame(width: 100, height: 100)
                     .shadow(
@@ -38,7 +39,7 @@ struct BackgroundAndOverlayView: View {
                                 color: Color("CustomColor").opacity(0.6),
                                 radius: 5, x: 5, y: 5
                             )
-                        ,alignment: .bottomTrailing
+                        , alignment: .bottomTrailing
                     )
             )
     }

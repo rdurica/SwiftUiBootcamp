@@ -11,12 +11,11 @@ struct ScrollViewView: View {
     var body: some View {
         ScrollView(.vertical, showsIndicators: false, content: {
             LazyVStack {
-                ForEach(0..<100) { _ in
+                ForEach(0 ..< 100) { _ in
                     Rectangle()
                         .frame(height: 100)
                         .foregroundColor(Color(UIColor.systemGray3))
                 }
-                    
             }
         })
     }

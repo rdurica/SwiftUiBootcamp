@@ -24,6 +24,5 @@ struct ColorsView: View {
 struct ColorsView_Previews: PreviewProvider {
     static var previews: some View {
         ColorsView()
-            
     }
 }

@@ -22,8 +22,6 @@ struct ShapesBootcampView: View {
 //            .stroke(.purple, lineWidth: 50)
 //            .padding(30)
             .frame(width: 200, height: 100)
-
-        
     }
 }
 

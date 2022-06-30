@@ -8,9 +8,8 @@
 import SwiftUI
 
 struct Loops: View {
-    
     let data: [String] = ["Apples", "Bananas"]
-    
+
     var body: some View {
         VStack {
 //            ForEach(0..<10) { index in

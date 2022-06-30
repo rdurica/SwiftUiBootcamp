@@ -24,7 +24,7 @@ struct PaddingAndSpacingView: View {
                     .padding(.horizontal, 25)
                     .shadow(color: .black.opacity(0.4), radius: 10, x: 5, y: 5)
             ).padding(.bottom, 50)
-            HStack(spacing: 0){
+            HStack(spacing: 0) {
                 Rectangle()
                     .frame(width: 100, height: 100)
                 Spacer(minLength: 0) // Pushing elements from positions
