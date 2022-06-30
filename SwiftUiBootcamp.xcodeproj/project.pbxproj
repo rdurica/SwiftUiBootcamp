@@ -21,6 +21,7 @@
 		2D6EE2B7286D037F00081394 /* BackgroundAndOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2B6286D037F00081394 /* BackgroundAndOverlayView.swift */; };
 		2DF6BE40286D723200AD8CFF /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE3F286D723200AD8CFF /* StacksView.swift */; };
 		2DF6BE42286D7B3300AD8CFF /* PaddingAndSpacingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE41286D7B3300AD8CFF /* PaddingAndSpacingView.swift */; };
+		2DF6BE46286DB4F500AD8CFF /* Initializators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE45286DB4F500AD8CFF /* Initializators.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		2D6EE2B6286D037F00081394 /* BackgroundAndOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayView.swift; sourceTree = "<group>"; };
 		2DF6BE3F286D723200AD8CFF /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
 		2DF6BE41286D7B3300AD8CFF /* PaddingAndSpacingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacingView.swift; sourceTree = "<group>"; };
+		2DF6BE45286DB4F500AD8CFF /* Initializators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializators.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		2D41FAA2286C8437008BB3DC /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				2DF6BE44286DB47800AD8CFF /* Func */,
 				2DF6BE43286DB3C700AD8CFF /* BasicLayout */,
 			);
 			path = Views;
@@ -111,6 +114,14 @@
 				2DF6BE41286D7B3300AD8CFF /* PaddingAndSpacingView.swift */,
 			);
 			path = BasicLayout;
+			sourceTree = "<group>";
+		};
+		2DF6BE44286DB47800AD8CFF /* Func */ = {
+			isa = PBXGroup;
+			children = (
+				2DF6BE45286DB4F500AD8CFF /* Initializators.swift */,
+			);
+			path = Func;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -188,6 +199,7 @@
 				2D41FAA6286CE6F1008BB3DC /* ColorsView.swift in Sources */,
 				2D6EE2B5286CFF8B00081394 /* FrameView.swift in Sources */,
 				2DF6BE42286D7B3300AD8CFF /* PaddingAndSpacingView.swift in Sources */,
+				2DF6BE46286DB4F500AD8CFF /* Initializators.swift in Sources */,
 				2D41FAA1286C842F008BB3DC /* TextView.swift in Sources */,
 				2D6EE2B3286CFBBC00081394 /* ImagesView.swift in Sources */,
 				2D6EE2AF286CEE1500081394 /* GradientsView.swift in Sources */,
