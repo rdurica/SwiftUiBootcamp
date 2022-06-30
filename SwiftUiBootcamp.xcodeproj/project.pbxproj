@@ -18,6 +18,7 @@
 		2D6EE2B1286CF5A300081394 /* IconsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2B0286CF5A300081394 /* IconsView.swift */; };
 		2D6EE2B3286CFBBC00081394 /* ImagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2B2286CFBBC00081394 /* ImagesView.swift */; };
 		2D6EE2B5286CFF8B00081394 /* FrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2B4286CFF8B00081394 /* FrameView.swift */; };
+		2D6EE2B7286D037F00081394 /* BackgroundAndOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6EE2B6286D037F00081394 /* BackgroundAndOverlayView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		2D6EE2B0286CF5A300081394 /* IconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsView.swift; sourceTree = "<group>"; };
 		2D6EE2B2286CFBBC00081394 /* ImagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesView.swift; sourceTree = "<group>"; };
 		2D6EE2B4286CFF8B00081394 /* FrameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameView.swift; sourceTree = "<group>"; };
+		2D6EE2B6286D037F00081394 /* BackgroundAndOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				2D6EE2B0286CF5A300081394 /* IconsView.swift */,
 				2D6EE2B2286CFBBC00081394 /* ImagesView.swift */,
 				2D6EE2B4286CFF8B00081394 /* FrameView.swift */,
+				2D6EE2B6286D037F00081394 /* BackgroundAndOverlayView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				2D6EE2AF286CEE1500081394 /* GradientsView.swift in Sources */,
 				2D6EE2B1286CF5A300081394 /* IconsView.swift in Sources */,
 				2D41FAA4286CE357008BB3DC /* ShapesView.swift in Sources */,
+				2D6EE2B7286D037F00081394 /* BackgroundAndOverlayView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
