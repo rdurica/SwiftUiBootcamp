@@ -25,6 +25,7 @@
 		2DF6BE46286DB4F500AD8CFF /* Initializators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE45286DB4F500AD8CFF /* Initializators.swift */; };
 		2DF6BE48286DC23900AD8CFF /* Loops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE47286DC23900AD8CFF /* Loops.swift */; };
 		2DF6BE4C286DC8F900AD8CFF /* ScrollViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE4B286DC8F900AD8CFF /* ScrollViewView.swift */; };
+		2DF7421C286E41BE00D9E148 /* ButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF7421B286E41BE00D9E148 /* ButtonsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		2DF6BE45286DB4F500AD8CFF /* Initializators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializators.swift; sourceTree = "<group>"; };
 		2DF6BE47286DC23900AD8CFF /* Loops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loops.swift; sourceTree = "<group>"; };
 		2DF6BE4B286DC8F900AD8CFF /* ScrollViewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewView.swift; sourceTree = "<group>"; };
+		2DF7421B286E41BE00D9E148 /* ButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		2D41FAA2286C8437008BB3DC /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				2DF7421A286E411800D9E148 /* UIBuilding */,
 				2DF6BE44286DB47800AD8CFF /* Func */,
 				2DF6BE43286DB3C700AD8CFF /* BaseElements */,
 			);
@@ -114,12 +117,7 @@
 				2D6EE2AE286CEE1500081394 /* GradientsView.swift */,
 				2D6EE2B0286CF5A300081394 /* IconsView.swift */,
 				2D6EE2B2286CFBBC00081394 /* ImagesView.swift */,
-				2D6EE2B4286CFF8B00081394 /* FrameView.swift */,
 				2D6EE2B6286D037F00081394 /* BackgroundAndOverlayView.swift */,
-				2DF6BE3F286D723200AD8CFF /* StacksView.swift */,
-				2DF6BE41286D7B3300AD8CFF /* PaddingAndSpacingView.swift */,
-				2DF6BE4B286DC8F900AD8CFF /* ScrollViewView.swift */,
-				2D93581A286E30D90029563C /* GridsView.swift */,
 			);
 			path = BaseElements;
 			sourceTree = "<group>";
@@ -127,10 +125,23 @@
 		2DF6BE44286DB47800AD8CFF /* Func */ = {
 			isa = PBXGroup;
 			children = (
+				2DF7421B286E41BE00D9E148 /* ButtonsView.swift */,
 				2DF6BE45286DB4F500AD8CFF /* Initializators.swift */,
 				2DF6BE47286DC23900AD8CFF /* Loops.swift */,
 			);
 			path = Func;
+			sourceTree = "<group>";
+		};
+		2DF7421A286E411800D9E148 /* UIBuilding */ = {
+			isa = PBXGroup;
+			children = (
+				2D93581A286E30D90029563C /* GridsView.swift */,
+				2DF6BE4B286DC8F900AD8CFF /* ScrollViewView.swift */,
+				2DF6BE3F286D723200AD8CFF /* StacksView.swift */,
+				2D6EE2B4286CFF8B00081394 /* FrameView.swift */,
+				2DF6BE41286D7B3300AD8CFF /* PaddingAndSpacingView.swift */,
+			);
+			path = UIBuilding;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,6 +223,7 @@
 				2D41FAA1286C842F008BB3DC /* TextView.swift in Sources */,
 				2D6EE2B3286CFBBC00081394 /* ImagesView.swift in Sources */,
 				2DF6BE4C286DC8F900AD8CFF /* ScrollViewView.swift in Sources */,
+				2DF7421C286E41BE00D9E148 /* ButtonsView.swift in Sources */,
 				2D6EE2AF286CEE1500081394 /* GradientsView.swift in Sources */,
 				2DF6BE40286D723200AD8CFF /* StacksView.swift in Sources */,
 				2D6EE2B1286CF5A300081394 /* IconsView.swift in Sources */,

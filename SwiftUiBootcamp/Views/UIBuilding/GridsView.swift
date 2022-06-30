@@ -21,8 +21,8 @@ struct GridsView: View {
             LazyVGrid(columns: columns, pinnedViews: [.sectionHeaders]) {
                 Section(header:
                     Text("Header")
-                        .background(.red)
                         .frame(maxWidth: .infinity)
+                        .background(.red)
                     , content: {
                         ForEach(0 ..< 50) { _ in
                             Rectangle()
