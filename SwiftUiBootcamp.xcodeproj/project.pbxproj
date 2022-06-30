@@ -90,6 +90,14 @@
 		2D41FAA2286C8437008BB3DC /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				2DF6BE43286DB3C700AD8CFF /* BasicLayout */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		2DF6BE43286DB3C700AD8CFF /* BasicLayout */ = {
+			isa = PBXGroup;
+			children = (
 				2D41FA94286C7968008BB3DC /* ContentView.swift */,
 				2D41FAA0286C842F008BB3DC /* TextView.swift */,
 				2D41FAA3286CE357008BB3DC /* ShapesView.swift */,
@@ -102,7 +110,7 @@
 				2DF6BE3F286D723200AD8CFF /* StacksView.swift */,
 				2DF6BE41286D7B3300AD8CFF /* PaddingAndSpacingView.swift */,
 			);
-			path = Views;
+			path = BasicLayout;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
