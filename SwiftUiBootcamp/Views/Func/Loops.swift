@@ -19,9 +19,9 @@ struct Loops: View {
 //                    Text("Index is \(index)")
 //                }
 //            }
-            ForEach(data.indices) { index in
-                Text("New item \(data[index])")
-            }
+//            ForEach(data.indices) { index in
+//                Text("New item \(data[index])")
+//            }
         }
     }
 }

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D24D7A1286EC0AF0078E158 /* ExctractView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7A0286EC0AF0078E158 /* ExctractView.swift */; };
 		2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FA92286C7968008BB3DC /* SwiftUiBootcampApp.swift */; };
 		2D41FA95286C7968008BB3DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FA94286C7968008BB3DC /* ContentView.swift */; };
 		2D41FA97286C7969008BB3DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D41FA96286C7969008BB3DC /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D24D7A0286EC0AF0078E158 /* ExctractView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExctractView.swift; sourceTree = "<group>"; };
 		2D41FA8F286C7968008BB3DC /* Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D41FA92286C7968008BB3DC /* SwiftUiBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiBootcampApp.swift; sourceTree = "<group>"; };
 		2D41FA94286C7968008BB3DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				2DF6BE3F286D723200AD8CFF /* StacksView.swift */,
 				2D6EE2B4286CFF8B00081394 /* FrameView.swift */,
 				2DF6BE41286D7B3300AD8CFF /* PaddingAndSpacingView.swift */,
+				2D24D7A0286EC0AF0078E158 /* ExctractView.swift */,
 			);
 			path = UIBuilding;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 			files = (
 				2D41FA95286C7968008BB3DC /* ContentView.swift in Sources */,
 				2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */,
+				2D24D7A1286EC0AF0078E158 /* ExctractView.swift in Sources */,
 				2DF7421E286E4A0B00D9E148 /* StateDecoratorView.swift in Sources */,
 				2D41FAA6286CE6F1008BB3DC /* ColorsView.swift in Sources */,
 				2D6EE2B5286CFF8B00081394 /* FrameView.swift in Sources */,
