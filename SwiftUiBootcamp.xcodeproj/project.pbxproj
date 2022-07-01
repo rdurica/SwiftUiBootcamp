@@ -12,6 +12,7 @@
 		2D24D7A6286ECE030078E158 /* MySubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7A5286ECE030078E158 /* MySubView.swift */; };
 		2D24D7A8286EEBA50078E158 /* BindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7A7286EEBA50078E158 /* BindingView.swift */; };
 		2D24D7AE286F14EE0078E158 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7AD286F14EE0078E158 /* AnimationView.swift */; };
+		2D24D7B0286F82470078E158 /* TransitionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7AF286F82470078E158 /* TransitionView.swift */; };
 		2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FA92286C7968008BB3DC /* SwiftUiBootcampApp.swift */; };
 		2D41FA95286C7968008BB3DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FA94286C7968008BB3DC /* ContentView.swift */; };
 		2D41FA97286C7969008BB3DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D41FA96286C7969008BB3DC /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 		2D24D7A7286EEBA50078E158 /* BindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingView.swift; sourceTree = "<group>"; };
 		2D24D7AC286F08EA0078E158 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2D24D7AD286F14EE0078E158 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
+		2D24D7AF286F82470078E158 /* TransitionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionView.swift; sourceTree = "<group>"; };
 		2D41FA8F286C7968008BB3DC /* Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D41FA92286C7968008BB3DC /* SwiftUiBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiBootcampApp.swift; sourceTree = "<group>"; };
 		2D41FA94286C7968008BB3DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 				2DF6BE44286DB47800AD8CFF /* Func */,
 				2DF6BE43286DB3C700AD8CFF /* BaseElements */,
 				2D24D7AD286F14EE0078E158 /* AnimationView.swift */,
+				2D24D7AF286F82470078E158 /* TransitionView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -247,6 +250,7 @@
 				2D24D7A1286EC0AF0078E158 /* ExctractView.swift in Sources */,
 				2DF7421E286E4A0B00D9E148 /* StateDecoratorView.swift in Sources */,
 				2D41FAA6286CE6F1008BB3DC /* ColorsView.swift in Sources */,
+				2D24D7B0286F82470078E158 /* TransitionView.swift in Sources */,
 				2D6EE2B5286CFF8B00081394 /* FrameView.swift in Sources */,
 				2DF6BE42286D7B3300AD8CFF /* PaddingAndSpacingView.swift in Sources */,
 				2DF6BE46286DB4F500AD8CFF /* Initializators.swift in Sources */,
