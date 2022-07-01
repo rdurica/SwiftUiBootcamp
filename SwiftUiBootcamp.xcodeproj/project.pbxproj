@@ -11,6 +11,7 @@
 		2D24D7A3286ECB0F0078E158 /* ExtractSubViewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7A2286ECB0F0078E158 /* ExtractSubViewsView.swift */; };
 		2D24D7A6286ECE030078E158 /* MySubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7A5286ECE030078E158 /* MySubView.swift */; };
 		2D24D7A8286EEBA50078E158 /* BindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7A7286EEBA50078E158 /* BindingView.swift */; };
+		2D24D7AE286F14EE0078E158 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7AD286F14EE0078E158 /* AnimationView.swift */; };
 		2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FA92286C7968008BB3DC /* SwiftUiBootcampApp.swift */; };
 		2D41FA95286C7968008BB3DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FA94286C7968008BB3DC /* ContentView.swift */; };
 		2D41FA97286C7969008BB3DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D41FA96286C7969008BB3DC /* Assets.xcassets */; };
@@ -39,6 +40,7 @@
 		2D24D7A5286ECE030078E158 /* MySubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySubView.swift; sourceTree = "<group>"; };
 		2D24D7A7286EEBA50078E158 /* BindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingView.swift; sourceTree = "<group>"; };
 		2D24D7AC286F08EA0078E158 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2D24D7AD286F14EE0078E158 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
 		2D41FA8F286C7968008BB3DC /* Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D41FA92286C7968008BB3DC /* SwiftUiBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiBootcampApp.swift; sourceTree = "<group>"; };
 		2D41FA94286C7968008BB3DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				2DF7421A286E411800D9E148 /* UIBuilding */,
 				2DF6BE44286DB47800AD8CFF /* Func */,
 				2DF6BE43286DB3C700AD8CFF /* BaseElements */,
+				2D24D7AD286F14EE0078E158 /* AnimationView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				2D24D7A8286EEBA50078E158 /* BindingView.swift in Sources */,
 				2D6EE2AF286CEE1500081394 /* GradientsView.swift in Sources */,
 				2DF6BE40286D723200AD8CFF /* StacksView.swift in Sources */,
+				2D24D7AE286F14EE0078E158 /* AnimationView.swift in Sources */,
 				2D24D7A3286ECB0F0078E158 /* ExtractSubViewsView.swift in Sources */,
 				2D6EE2B1286CF5A300081394 /* IconsView.swift in Sources */,
 				2D24D7A6286ECE030078E158 /* MySubView.swift in Sources */,
