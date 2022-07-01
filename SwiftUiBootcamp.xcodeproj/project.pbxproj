@@ -13,6 +13,7 @@
 		2D24D7A8286EEBA50078E158 /* BindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7A7286EEBA50078E158 /* BindingView.swift */; };
 		2D24D7AE286F14EE0078E158 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7AD286F14EE0078E158 /* AnimationView.swift */; };
 		2D24D7B0286F82470078E158 /* TransitionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7AF286F82470078E158 /* TransitionView.swift */; };
+		2D24D7B2286F8D1B0078E158 /* SheetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D24D7B1286F8D1B0078E158 /* SheetsView.swift */; };
 		2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FA92286C7968008BB3DC /* SwiftUiBootcampApp.swift */; };
 		2D41FA95286C7968008BB3DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D41FA94286C7968008BB3DC /* ContentView.swift */; };
 		2D41FA97286C7969008BB3DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D41FA96286C7969008BB3DC /* Assets.xcassets */; };
@@ -43,6 +44,7 @@
 		2D24D7AC286F08EA0078E158 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2D24D7AD286F14EE0078E158 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
 		2D24D7AF286F82470078E158 /* TransitionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionView.swift; sourceTree = "<group>"; };
+		2D24D7B1286F8D1B0078E158 /* SheetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsView.swift; sourceTree = "<group>"; };
 		2D41FA8F286C7968008BB3DC /* Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D41FA92286C7968008BB3DC /* SwiftUiBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiBootcampApp.swift; sourceTree = "<group>"; };
 		2D41FA94286C7968008BB3DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				2DF6BE43286DB3C700AD8CFF /* BaseElements */,
 				2D24D7AD286F14EE0078E158 /* AnimationView.swift */,
 				2D24D7AF286F82470078E158 /* TransitionView.swift */,
+				2D24D7B1286F8D1B0078E158 /* SheetsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D24D7B2286F8D1B0078E158 /* SheetsView.swift in Sources */,
 				2D41FA95286C7968008BB3DC /* ContentView.swift in Sources */,
 				2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */,
 				2D24D7A1286EC0AF0078E158 /* ExctractView.swift in Sources */,
