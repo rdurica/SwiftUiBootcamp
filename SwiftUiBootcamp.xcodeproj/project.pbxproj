@@ -38,6 +38,7 @@
 		2D24D7A2286ECB0F0078E158 /* ExtractSubViewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViewsView.swift; sourceTree = "<group>"; };
 		2D24D7A5286ECE030078E158 /* MySubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySubView.swift; sourceTree = "<group>"; };
 		2D24D7A7286EEBA50078E158 /* BindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingView.swift; sourceTree = "<group>"; };
+		2D24D7AC286F08EA0078E158 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2D41FA8F286C7968008BB3DC /* Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D41FA92286C7968008BB3DC /* SwiftUiBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiBootcampApp.swift; sourceTree = "<group>"; };
 		2D41FA94286C7968008BB3DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -83,6 +84,7 @@
 		2D41FA86286C7968008BB3DC = {
 			isa = PBXGroup;
 			children = (
+				2D24D7AC286F08EA0078E158 /* README.md */,
 				2D41FA91286C7968008BB3DC /* SwiftUiBootcamp */,
 				2D41FA90286C7968008BB3DC /* Products */,
 			);
