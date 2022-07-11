@@ -35,6 +35,7 @@
 		2D7007A628737CDB008C3E81 /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D7007A528737CDB008C3E81 /* TextFieldView.swift */; };
 		2D7007A8287384EA008C3E81 /* TextEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D7007A7287384EA008C3E81 /* TextEditorView.swift */; };
 		2D8D5E13287CB7E9009D28CF /* TabViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D8D5E12287CB7E9009D28CF /* TabViewView.swift */; };
+		2D8D5E15287CBFB0009D28CF /* DarkModeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D8D5E14287CBFB0009D28CF /* DarkModeView.swift */; };
 		2D93581B286E30D90029563C /* GridsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D93581A286E30D90029563C /* GridsView.swift */; };
 		2DCFC861287762A600613D83 /* ToggleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DCFC860287762A600613D83 /* ToggleView.swift */; };
 		2DD12B7728781DA0009DF88E /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD12B7628781DA0009DF88E /* PickerView.swift */; };
@@ -80,6 +81,7 @@
 		2D7007A528737CDB008C3E81 /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
 		2D7007A7287384EA008C3E81 /* TextEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorView.swift; sourceTree = "<group>"; };
 		2D8D5E12287CB7E9009D28CF /* TabViewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewView.swift; sourceTree = "<group>"; };
+		2D8D5E14287CBFB0009D28CF /* DarkModeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeView.swift; sourceTree = "<group>"; };
 		2D93581A286E30D90029563C /* GridsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridsView.swift; sourceTree = "<group>"; };
 		2DCFC860287762A600613D83 /* ToggleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleView.swift; sourceTree = "<group>"; };
 		2DD12B7628781DA0009DF88E /* PickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
@@ -171,6 +173,7 @@
 				2DDB04F1287B5C4300556612 /* StepperView.swift */,
 				2DDB04F3287B5F3C00556612 /* SliderView.swift */,
 				2D8D5E12287CB7E9009D28CF /* TabViewView.swift */,
+				2D8D5E14287CBFB0009D28CF /* DarkModeView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				2D24D7B0286F82470078E158 /* TransitionView.swift in Sources */,
 				2D6EE2B5286CFF8B00081394 /* FrameView.swift in Sources */,
 				2DCFC861287762A600613D83 /* ToggleView.swift in Sources */,
+				2D8D5E15287CBFB0009D28CF /* DarkModeView.swift in Sources */,
 				2D24D7B6286FA5D30078E158 /* ListViewView.swift in Sources */,
 				2D6D5C7D2879F95900E760AB /* DatePickerView.swift in Sources */,
 				2D7007A2287373B0008C3E81 /* AlertView.swift in Sources */,

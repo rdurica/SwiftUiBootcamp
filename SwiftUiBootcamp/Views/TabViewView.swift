@@ -52,6 +52,7 @@ struct TabViewView: View {
                 Image(systemName: icon)
                     .resizable()
                     .scaledToFit()
+                    .frame(maxWidth: .infinity)
                     .background(
                         RadialGradient(colors: [.red, .blue], center: .center, startRadius: 5, endRadius: 300)
                     )
