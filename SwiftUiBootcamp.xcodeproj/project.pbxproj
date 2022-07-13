@@ -45,6 +45,7 @@
 		2DDB04F2287B5C4300556612 /* StepperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DDB04F1287B5C4300556612 /* StepperView.swift */; };
 		2DDB04F4287B5F3C00556612 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DDB04F3287B5F3C00556612 /* SliderView.swift */; };
 		2DDC528D287F4F43000B5D6A /* CustomModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DDC528C287F4F43000B5D6A /* CustomModelView.swift */; };
+		2DDC528F287F55C3000B5D6A /* ViewModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DDC528E287F55C3000B5D6A /* ViewModelView.swift */; };
 		2DF6BE40286D723200AD8CFF /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE3F286D723200AD8CFF /* StacksView.swift */; };
 		2DF6BE42286D7B3300AD8CFF /* PaddingAndSpacingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE41286D7B3300AD8CFF /* PaddingAndSpacingView.swift */; };
 		2DF6BE46286DB4F500AD8CFF /* Initializators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE45286DB4F500AD8CFF /* Initializators.swift */; };
@@ -95,6 +96,7 @@
 		2DDB04F1287B5C4300556612 /* StepperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperView.swift; sourceTree = "<group>"; };
 		2DDB04F3287B5F3C00556612 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 		2DDC528C287F4F43000B5D6A /* CustomModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModelView.swift; sourceTree = "<group>"; };
+		2DDC528E287F55C3000B5D6A /* ViewModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelView.swift; sourceTree = "<group>"; };
 		2DF6BE3F286D723200AD8CFF /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
 		2DF6BE41286D7B3300AD8CFF /* PaddingAndSpacingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacingView.swift; sourceTree = "<group>"; };
 		2DF6BE45286DB4F500AD8CFF /* Initializators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializators.swift; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 				2DD8AB51287E073500BAA54B /* OnAppearView.swift */,
 				2DD8AB55287E190D00BAA54B /* TapGestureView.swift */,
 				2DDC528C287F4F43000B5D6A /* CustomModelView.swift */,
+				2DDC528E287F55C3000B5D6A /* ViewModelView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -307,6 +310,7 @@
 				2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */,
 				2D8D5E13287CB7E9009D28CF /* TabViewView.swift in Sources */,
 				2D24D7A1286EC0AF0078E158 /* ExctractView.swift in Sources */,
+				2DDC528F287F55C3000B5D6A /* ViewModelView.swift in Sources */,
 				2DF7421E286E4A0B00D9E148 /* StateDecoratorView.swift in Sources */,
 				2DD12B7728781DA0009DF88E /* PickerView.swift in Sources */,
 				2D41FAA6286CE6F1008BB3DC /* ColorsView.swift in Sources */,
