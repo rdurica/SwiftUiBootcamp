@@ -195,14 +195,14 @@
 		2DF6BE43286DB3C700AD8CFF /* BaseElements */ = {
 			isa = PBXGroup;
 			children = (
-				2D41FA94286C7968008BB3DC /* ContentView.swift */,
-				2D41FAA0286C842F008BB3DC /* TextView.swift */,
-				2D41FAA3286CE357008BB3DC /* ShapesView.swift */,
+				2D6EE2B6286D037F00081394 /* BackgroundAndOverlayView.swift */,
 				2D41FAA5286CE6F1008BB3DC /* ColorsView.swift */,
+				2D41FA94286C7968008BB3DC /* ContentView.swift */,
 				2D6EE2AE286CEE1500081394 /* GradientsView.swift */,
 				2D6EE2B0286CF5A300081394 /* IconsView.swift */,
 				2D6EE2B2286CFBBC00081394 /* ImagesView.swift */,
-				2D6EE2B6286D037F00081394 /* BackgroundAndOverlayView.swift */,
+				2D41FAA3286CE357008BB3DC /* ShapesView.swift */,
+				2D41FAA0286C842F008BB3DC /* TextView.swift */,
 			);
 			path = BaseElements;
 			sourceTree = "<group>";

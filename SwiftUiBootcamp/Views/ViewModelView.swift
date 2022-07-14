@@ -14,7 +14,7 @@ struct FruitModel: Identifiable {
 }
 
 class FruitViewModel: ObservableObject {
-    // Similar than @State but for class, on change notify object  -> USE THIS ON CREATION / INIT
+    // Similar than @State but for class, on change notify object
     @Published var fruits: [FruitModel] = []
     @Published var isLoading: Bool = false
 
@@ -42,7 +42,9 @@ class FruitViewModel: ObservableObject {
 }
 
 struct ViewModelView: View {
-    // Observe object for changes -> USE THIS ON SUBVIEWS
+    // @StateObject -> USE THIS ON CREATION / INIT
+    // @ObservedObject -> USE THIS ON SUBVIEWS
+    // Observe object for changes
     @ObservedObject var fruitViewModel: FruitViewModel = FruitViewModel()
 
     var body: some View {
