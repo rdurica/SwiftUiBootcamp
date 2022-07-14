@@ -8,7 +8,10 @@
 import SwiftUI
 
 struct AppStorageView: View {
-    @AppStorage("name") var currentUserName: String?
+//    @AppStorage("name") var currentUserName: String?
+
+    // Can be added default value. Only added if nil
+    @AppStorage("name") var currentUserName: String = "John"
 
     var body: some View {
         VStack(spacing: 20) {
