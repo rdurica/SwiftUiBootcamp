@@ -27,7 +27,7 @@ struct ListViewView: View {
                     .listRowBackground(Color.orange)
                     .padding(.vertical, 10)
 
-                }, header: { // You can customize header too
+                }, header: { // You can customise header too
                     HStack {
                         Text("Fruits")
                             .foregroundColor(.orange)

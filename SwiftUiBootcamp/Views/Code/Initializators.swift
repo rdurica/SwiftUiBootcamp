@@ -25,7 +25,7 @@ struct Initializators: View {
 
     enum Fruit: String {
         case apple = "Apples"
-        case orange = "Oarnges"
+        case orange = "Oranges"
     }
 
     var body: some View {
