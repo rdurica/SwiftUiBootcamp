@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct SwiftUiBootcampApp: App {
+    @AppStorage("is_logged") var isLoggedIn: Bool = false
+
     var body: some Scene {
         WindowGroup {
-            AppStorageView()
+            // Redirect if user not logged in
+            if !isLoggedIn {
+                OnboardingView()
+            } else {
+                HomepageView()
+            }
         }
     }
 }

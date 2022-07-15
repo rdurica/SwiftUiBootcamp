@@ -2,6 +2,17 @@
 
 Project based on Youtube bootcamp for learning SwiftUI
 
+### Preview
+<p float="left">
+
+<img width="150" alt="Screenshot 2022-07-01 at 13 16 02" src="https://user-images.githubusercontent.com/16089770/179314985-31227719-d075-4892-be6a-627a8e11439d.png">
+<img width="150" alt="Screenshot 2022-07-01 at 13 15 46" src="https://user-images.githubusercontent.com/16089770/179315015-e96845c9-33ea-4840-9d90-407eab2f8ebe.png">
+<img width="150" alt="Screenshot 2022-07-01 at 13 15 20" src="https://user-images.githubusercontent.com/16089770/179315038-d373b325-2203-4bfc-abb5-0ae6074e1931.png">
+<img width="150" alt="Screenshot 2022-07-01 at 13 15 02" src="https://user-images.githubusercontent.com/16089770/179315072-62f17fde-36f5-4184-83ba-3f34d8775cb2.png">
+<img width="150" alt="Screenshot 2022-07-01 at 13 15 02" src="https://user-images.githubusercontent.com/16089770/179315102-885680be-7a2b-44d1-b33d-103b2939c2c1.png">
+<img width="150" alt="Screenshot 2022-07-01 at 13 15 02" src="https://user-images.githubusercontent.com/16089770/179315125-959921a9-ee45-48e9-9e82-a02bcea27e44.png">
+</p>
+
 ### Areas of bootcamp
 - XCode overview
 - Basics
@@ -49,13 +60,4 @@ And more...
 ### Youtube playlist
 https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO
 
-### Preview
-<img width="565" alt="Screenshot 2022-07-01 at 13 17 20" src="https://user-images.githubusercontent.com/16089770/176884558-80422fef-1791-443f-8bf2-58846ef2cee6.png">
 
-<p float="left">
-
-<img width="150" alt="Screenshot 2022-07-01 at 13 16 02" src="https://user-images.githubusercontent.com/16089770/176884569-b7c0c78f-255a-4c5e-b9c3-426c2f7e4695.png">
-<img width="150" alt="Screenshot 2022-07-01 at 13 15 46" src="https://user-images.githubusercontent.com/16089770/176884571-82a2053f-cd54-4f46-afff-d7fa494a7a07.png">
-<img width="150" alt="Screenshot 2022-07-01 at 13 15 20" src="https://user-images.githubusercontent.com/16089770/176884574-3e7071c4-38d6-44a6-b6a6-5fe79e3a4a35.png">
-<img width="150" alt="Screenshot 2022-07-01 at 13 15 02" src="https://user-images.githubusercontent.com/16089770/176884576-597eea26-f981-4b6a-97ad-e013c23204fa.png">
-</p>
