@@ -64,6 +64,7 @@
 		2DF7421E286E4A0B00D9E148 /* StateDecoratorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF7421D286E4A0B00D9E148 /* StateDecoratorView.swift */; };
 		2DFD62542883339300EFE980 /* TextSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD62532883339300EFE980 /* TextSelectionView.swift */; };
 		2DFD6256288334BC00EFE980 /* ButtonStylesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */; };
+		2DFD6258288337F300EFE980 /* SwipeActionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD6257288337F300EFE980 /* SwipeActionsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -126,6 +127,7 @@
 		2DF7421D286E4A0B00D9E148 /* StateDecoratorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDecoratorView.swift; sourceTree = "<group>"; };
 		2DFD62532883339300EFE980 /* TextSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionView.swift; sourceTree = "<group>"; };
 		2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesView.swift; sourceTree = "<group>"; };
+		2DFD6257288337F300EFE980 /* SwipeActionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -259,6 +261,7 @@
 				2DCA24082880BCE70022367A /* AppStorageView.swift */,
 				2DD8AB53287E11BD00BAA54B /* IfLetGuardView.swift */,
 				2D24D7A7286EEBA50078E158 /* BindingView.swift */,
+				2DFD6257288337F300EFE980 /* SwipeActionsView.swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -407,6 +410,7 @@
 				2D6D5C7B2879F76800E760AB /* ColorPickerView.swift in Sources */,
 				2DDB04F2287B5C4300556612 /* StepperView.swift in Sources */,
 				2D24D7A8286EEBA50078E158 /* BindingView.swift in Sources */,
+				2DFD6258288337F300EFE980 /* SwipeActionsView.swift in Sources */,
 				2D6EE2AF286CEE1500081394 /* GradientsView.swift in Sources */,
 				2DF6BE40286D723200AD8CFF /* StacksView.swift in Sources */,
 				2D8EAE6F288203D100356EE0 /* HomepageViewModel.swift in Sources */,
