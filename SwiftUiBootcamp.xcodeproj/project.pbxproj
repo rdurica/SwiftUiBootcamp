@@ -63,6 +63,7 @@
 		2DF7421C286E41BE00D9E148 /* ButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF7421B286E41BE00D9E148 /* ButtonsView.swift */; };
 		2DF7421E286E4A0B00D9E148 /* StateDecoratorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF7421D286E4A0B00D9E148 /* StateDecoratorView.swift */; };
 		2DFD62542883339300EFE980 /* TextSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD62532883339300EFE980 /* TextSelectionView.swift */; };
+		2DFD6256288334BC00EFE980 /* ButtonStylesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +125,7 @@
 		2DF7421B286E41BE00D9E148 /* ButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsView.swift; sourceTree = "<group>"; };
 		2DF7421D286E4A0B00D9E148 /* StateDecoratorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDecoratorView.swift; sourceTree = "<group>"; };
 		2DFD62532883339300EFE980 /* TextSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionView.swift; sourceTree = "<group>"; };
+		2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -241,6 +243,7 @@
 				2D24D7AD286F14EE0078E158 /* AnimationView.swift */,
 				2D8EAE7028821A3700356EE0 /* BackgroundMaterialsView.swift */,
 				2DFD62532883339300EFE980 /* TextSelectionView.swift */,
+				2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */,
 			);
 			path = Custom;
 			sourceTree = "<group>";
@@ -379,6 +382,7 @@
 				2DF7421E286E4A0B00D9E148 /* StateDecoratorView.swift in Sources */,
 				2DD12B7728781DA0009DF88E /* PickerView.swift in Sources */,
 				2D41FAA6286CE6F1008BB3DC /* ColorsView.swift in Sources */,
+				2DFD6256288334BC00EFE980 /* ButtonStylesView.swift in Sources */,
 				2DD8AB54287E11BD00BAA54B /* IfLetGuardView.swift in Sources */,
 				2D24D7B0286F82470078E158 /* TransitionView.swift in Sources */,
 				2D6EE2B5286CFF8B00081394 /* FrameView.swift in Sources */,
