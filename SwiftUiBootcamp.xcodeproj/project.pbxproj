@@ -62,6 +62,7 @@
 		2DF6BE4C286DC8F900AD8CFF /* ScrollViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF6BE4B286DC8F900AD8CFF /* ScrollViewView.swift */; };
 		2DF7421C286E41BE00D9E148 /* ButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF7421B286E41BE00D9E148 /* ButtonsView.swift */; };
 		2DF7421E286E4A0B00D9E148 /* StateDecoratorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF7421D286E4A0B00D9E148 /* StateDecoratorView.swift */; };
+		2DFD62542883339300EFE980 /* TextSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD62532883339300EFE980 /* TextSelectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -122,6 +123,7 @@
 		2DF6BE4B286DC8F900AD8CFF /* ScrollViewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewView.swift; sourceTree = "<group>"; };
 		2DF7421B286E41BE00D9E148 /* ButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsView.swift; sourceTree = "<group>"; };
 		2DF7421D286E4A0B00D9E148 /* StateDecoratorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDecoratorView.swift; sourceTree = "<group>"; };
+		2DFD62532883339300EFE980 /* TextSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -238,6 +240,7 @@
 				2D41FA94286C7968008BB3DC /* ContentView.swift */,
 				2D24D7AD286F14EE0078E158 /* AnimationView.swift */,
 				2D8EAE7028821A3700356EE0 /* BackgroundMaterialsView.swift */,
+				2DFD62532883339300EFE980 /* TextSelectionView.swift */,
 			);
 			path = Custom;
 			sourceTree = "<group>";
@@ -368,6 +371,7 @@
 				2D41FA95286C7968008BB3DC /* ContentView.swift in Sources */,
 				2D41FA93286C7968008BB3DC /* SwiftUiBootcampApp.swift in Sources */,
 				2D8D5E13287CB7E9009D28CF /* TabViewView.swift in Sources */,
+				2DFD62542883339300EFE980 /* TextSelectionView.swift in Sources */,
 				2DCA242328817FA10022367A /* OnboardingEnum.swift in Sources */,
 				2D24D7A1286EC0AF0078E158 /* ExctractView.swift in Sources */,
 				2DCA2413288158DB0022367A /* HomepageView.swift in Sources */,
