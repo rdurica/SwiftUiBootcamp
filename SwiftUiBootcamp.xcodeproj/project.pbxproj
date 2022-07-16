@@ -65,6 +65,7 @@
 		2DFD62542883339300EFE980 /* TextSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD62532883339300EFE980 /* TextSelectionView.swift */; };
 		2DFD6256288334BC00EFE980 /* ButtonStylesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */; };
 		2DFD6258288337F300EFE980 /* SwipeActionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD6257288337F300EFE980 /* SwipeActionsView.swift */; };
+		2DFD625A28833A8000EFE980 /* BadgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD625928833A8000EFE980 /* BadgeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -128,6 +129,7 @@
 		2DFD62532883339300EFE980 /* TextSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionView.swift; sourceTree = "<group>"; };
 		2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesView.swift; sourceTree = "<group>"; };
 		2DFD6257288337F300EFE980 /* SwipeActionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionsView.swift; sourceTree = "<group>"; };
+		2DFD625928833A8000EFE980 /* BadgeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,6 +248,7 @@
 				2D8EAE7028821A3700356EE0 /* BackgroundMaterialsView.swift */,
 				2DFD62532883339300EFE980 /* TextSelectionView.swift */,
 				2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */,
+				2DFD625928833A8000EFE980 /* BadgeView.swift */,
 			);
 			path = Custom;
 			sourceTree = "<group>";
@@ -406,6 +409,7 @@
 				2DF6BE4C286DC8F900AD8CFF /* ScrollViewView.swift in Sources */,
 				2D7007A8287384EA008C3E81 /* TextEditorView.swift in Sources */,
 				2DCA24092880BCE70022367A /* AppStorageView.swift in Sources */,
+				2DFD625A28833A8000EFE980 /* BadgeView.swift in Sources */,
 				2DF7421C286E41BE00D9E148 /* ButtonsView.swift in Sources */,
 				2D6D5C7B2879F76800E760AB /* ColorPickerView.swift in Sources */,
 				2DDB04F2287B5C4300556612 /* StepperView.swift in Sources */,
