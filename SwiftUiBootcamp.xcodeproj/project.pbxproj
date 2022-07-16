@@ -66,6 +66,7 @@
 		2DFD6256288334BC00EFE980 /* ButtonStylesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */; };
 		2DFD6258288337F300EFE980 /* SwipeActionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD6257288337F300EFE980 /* SwipeActionsView.swift */; };
 		2DFD625A28833A8000EFE980 /* BadgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD625928833A8000EFE980 /* BadgeView.swift */; };
+		2DFD625C28833C7900EFE980 /* FocusStateVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFD625B28833C7900EFE980 /* FocusStateVIew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -130,6 +131,7 @@
 		2DFD6255288334BC00EFE980 /* ButtonStylesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesView.swift; sourceTree = "<group>"; };
 		2DFD6257288337F300EFE980 /* SwipeActionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionsView.swift; sourceTree = "<group>"; };
 		2DFD625928833A8000EFE980 /* BadgeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeView.swift; sourceTree = "<group>"; };
+		2DFD625B28833C7900EFE980 /* FocusStateVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateVIew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -265,6 +267,7 @@
 				2DD8AB53287E11BD00BAA54B /* IfLetGuardView.swift */,
 				2D24D7A7286EEBA50078E158 /* BindingView.swift */,
 				2DFD6257288337F300EFE980 /* SwipeActionsView.swift */,
+				2DFD625B28833C7900EFE980 /* FocusStateVIew.swift */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 				2DDC528D287F4F43000B5D6A /* CustomModelView.swift in Sources */,
 				2DD8AB56287E190D00BAA54B /* TapGestureView.swift in Sources */,
 				2DDB04F4287B5F3C00556612 /* SliderView.swift in Sources */,
+				2DFD625C28833C7900EFE980 /* FocusStateVIew.swift in Sources */,
 				2DCA240B2880C2890022367A /* AsyncImageView.swift in Sources */,
 				2DCA2428288182E00022367A /* GenderEnum.swift in Sources */,
 				2D41FAA4286CE357008BB3DC /* ShapesView.swift in Sources */,
